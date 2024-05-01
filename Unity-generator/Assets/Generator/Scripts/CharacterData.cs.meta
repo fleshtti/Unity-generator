@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7ad3ea0498d92944e9fb45696d7f00e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _body: {instanceID: 0}
+  - _headgearPrefab: {instanceID: 0}
+  - _pantsPrefab: {instanceID: 0}
+  - _upperBodyPrefab: {instanceID: 0}
+  - _armorPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
