@@ -12,11 +12,32 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ad3ea0498d92944e9fb45696d7f00e8, type: 3}
   m_Name: Base Chatacter
   m_EditorClassIdentifier: 
-  body: []
-  armor: []
-  hatsgearPrefab: []
-  pantsPrefab: []
-  upperBodyPrefab: []
-  accessoriesies: []
-  eye: []
+  body:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  armor:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  hatsgearPrefab:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  pantsPrefab:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  upperBodyPrefab:
+  - {fileID: 0}
+  - {fileID: 0}
+  accessoriesies:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  eye:
+  - {fileID: 0}
+  - {fileID: 0}
+  bottomLayer: []
   characterClass: 2
+  materialManager: {fileID: 11400000, guid: 94c66c45ff44acc4abd6b05313cbf739, type: 2}

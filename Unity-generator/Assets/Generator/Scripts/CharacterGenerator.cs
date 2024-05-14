@@ -44,6 +44,16 @@ public class CharacterGenerator : MonoBehaviour
         }
     }
 
+    internal void Randomize()
+    {
+        throw new System.NotImplementedException();
+    }
+
+    internal void RandomizeCat()
+    {
+        throw new System.NotImplementedException();
+    }
+
     /// <summary>
     /// Creates and equips character equipment based on the generated character data
     /// </summary>
